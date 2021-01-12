@@ -2,7 +2,7 @@
 This is a simple web to-do list application written in JavaScript.
 
 ## General info
-Time Tracker allows for better task management by adding subtasks and time needed for their completion.
+Time Tracker allows for better task management by adding subtasks and time needed for their completion.\
 Example:
 * Clean the house
   * Vaccum - 15 min
